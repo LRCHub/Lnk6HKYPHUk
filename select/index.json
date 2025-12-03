@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "劇上",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-03T02:36:33.393235Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "劇上",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_劇上_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "劇上",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_劇上_YOASOBI.txt"
+    }
+  ]
+}
